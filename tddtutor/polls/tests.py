@@ -1,7 +1,7 @@
 from django.test import TestCase
 from django.utils import timezone
 
-from .models import Poll
+from models import Poll
 
 
 class PollModelTest(TestCase):
